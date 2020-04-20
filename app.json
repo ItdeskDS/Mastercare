@@ -1,0 +1,38 @@
+{
+  "id": "dea4a481-e9ed-4b53-9e40-f7cd3bc73dc7",
+  "name": "DimensionUpdateforMasterCare",
+  "publisher": "Dimension Update",
+  "version": "1.0.0.2",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "15.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://DimensionUpdateforMasterCare.com/help/",
+  "showMyCode": true,
+  "runtime": "4.0"
+}
